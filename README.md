@@ -5,7 +5,7 @@
 - Checked for datatypes
 - Inspected data with head, tail, describe, dtypes
 - Subsetting data
-- CLeaning null values
+- Cleaning null values
 - Querying data from within the dataframes
 - Changing datatypes within data frame
 - Adding a new row or a column in dataframe
